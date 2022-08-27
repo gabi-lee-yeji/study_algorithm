@@ -1,7 +1,6 @@
 package chapter02;
 
 import java.util.Random;
-import java.util.Scanner;
 
 public class Ex01_MaxOfArray {
 	static int maxOf(int[] a) {
